@@ -1,0 +1,47 @@
+body {
+  background-color: #F3E8CB;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #142850;
+  border-width: 5px;
+  width: 100%;
+}
+h1{
+color: #66BFBF
+}
+h3{
+color: #FF7E67
+}
+
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+img{
+  border-radius: 100%;
+}
+
+.education{
+  display: flex;
+  align-items: center;
+}
+
+.Certificate{
+  display: flex;
+  align-items: center;
+}
+
+.skills{
+  display: flex;
+  align-items: center;
+}
+
+.ordered{
+  display: flex;
+  align-items: center;
+}
